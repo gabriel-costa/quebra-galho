@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quebra-Galho</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_insere_anuncio">Pedir Favor</string>
+
+    <string-array name="categorias_favor">
+        <item>Arrumar Casa</item>
+        <item>Aulas de Dança</item>
+        <item>Tocar Música</item>
+        <item>Aulas de Matemática</item>
+        <item>Manutenção de Computadores</item>
+        <item>Carona</item>
+    </string-array>
+    <string name="title_activity_favores_ativos">FavoresAtivos</string>
+    <string name="section_format">Você está na pagina: %1$d</string>
+    <string name="title_activity_filtrar_favores">FiltrarFavores</string>
+    <string name="title_activity_perfil">User</string>
+    <string name="title_activity_usuario">Usuario</string>
+</resources>
