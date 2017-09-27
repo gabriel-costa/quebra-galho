@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#2098bc</color>
+    <color name="colorPrimaryDark">#045804</color>
+    <color name="colorAccent">#FF3C9F07</color>-->
+
+    <!--<color name="colorPrimary">#8ac66b</color>
+    <color name="colorPrimaryDark">#846a35</color>
+    <color name="colorAccent">#997b3f</color>-->
+
+    <color name="colorPrimary">#2b9553</color>
+    <color name="colorPrimaryDark">#4c5ec9</color>
+    <color name="colorAccent">#5482f4</color>
+    <color name="colorLog">#C6FFF0</color>
+    <color name="Coloricon_list">#FAFAFA</color>
+</resources>

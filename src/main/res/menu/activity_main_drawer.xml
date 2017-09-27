@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_anuncios"
+            android:icon="@drawable/ic_anuncios"
+            android:title="Anúncios" />
+        <item
+            android:id="@+id/nav_pedFav"
+            android:icon="@drawable/ic_insere_anuncio"
+            android:title="Pedir Favor" />
+        <item
+            android:id="@+id/nav_favAtiv"
+            android:icon="@drawable/ic_ativos"
+            android:title="Favores Ativos" />
+        <item
+            android:id="@+id/nav_chat"
+            android:icon="@drawable/ic_chat_menu"
+            android:title="Chat" />
+
+        <item
+            android:id="@+id/nav_filtraFav"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Filtrar Favores" />
+
+        <item
+            android:id="@+id/nav_comprarCred"
+            android:icon="@drawable/ic_comprar"
+            android:title="Comprar Créditos" />
+
+        <item
+            android:id="@+id/nav_contato"
+            android:icon="@drawable/ic_fale"
+            android:title="Fale Conosco" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_out"
+            android:title="Log Out" />
+    </group>
+
+    <item android:title="Informações">
+        <menu>
+            <item
+                android:id="@+id/nav_termos"
+                android:icon="@drawable/ic_termos"
+                android:title="Termos de Uso" />
+            <item
+                android:id="@+id/nav_nos"
+                android:icon="@drawable/ic_nos"
+                android:title="Sobre Nós" />
+        </menu>
+    </item>
+
+</menu>
